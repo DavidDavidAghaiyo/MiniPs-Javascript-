@@ -1,0 +1,5 @@
+List of projects to be added
+- Currency converter
+- Weather app
+- Random quote generator
+- Dictionary app

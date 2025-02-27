@@ -1,4 +1,14 @@
 List of projects to be added
+
+- Alarm clock
+- To do list app
+- Music player
 - Weather app
-- Random quote generator
+- Digital clock
 - Dictionary app
+- Random Password generator
+- Quiz app
+- Paint app
+- Notes app
+
+

@@ -32,9 +32,4 @@ copyBtn.addEventListener("click", () => {
   navigator.clipboard.writeText(quoteText.innerText);
 });
 
-//Code for the copy button
-copyBtn.addEventListener("click", () => {
-  navigator.clipboard.writeText(quoteText.innerText);
-});
-
 quoteBtn.addEventListener("click", randomQuote);

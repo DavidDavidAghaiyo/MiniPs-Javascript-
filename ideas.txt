@@ -1,6 +1,5 @@
 List of projects to be added
 
-- Alarm clock
 - To do list app
 - Music player
 - Weather app

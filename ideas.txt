@@ -1,6 +1,5 @@
 List of projects to be added
 
-- To do list app
 - Music player
 - Weather app
 - Digital clock

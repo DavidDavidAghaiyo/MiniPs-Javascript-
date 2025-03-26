@@ -1,6 +1,6 @@
 List of projects to be added
 
-- Music player
+
 - Weather app
 - Digital clock
 - Dictionary app
